@@ -132,7 +132,7 @@ Feel free to check the [issues page](https://github.com/Adams-Ghub/hello-rails-b
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
+If you like this project, give it a ⭐.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
