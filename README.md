@@ -22,25 +22,18 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello rails react <a name="about-project"></a>
+# 📖 Hello rails backend <a name="about-project"></a>
 
-**Hello rails backend** is a application that is built with ruby on rails and meant to provide a pi the serves messages to a front end application built with react.
+**Hello rails backend** is a application that is built with ruby on rails and meant to provide a pi the serves messages to a <a href="https://github.com/Adams-Ghub/hello-react-front-end">Hello-react-front-end</a> application built with react.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org">React</a></li>
-  </ul>
-</details>
-
-<details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://render.com/">Render</a></li>
+   <li><a href="https://ruby.org/">Ruby on Rails</a></li>
   </ul>
 </details>
 
